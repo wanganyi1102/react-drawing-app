@@ -1,6 +1,8 @@
 # UI for showcasing image translation model
 
-[in progress]
+video demonstration of UI: [https://www.youtube.com/watch?v=bJiRJwpbL6Q]
+
+Note: model training and evaluation are not in this repository
 
 <img width="1467" alt="image" src="https://user-images.githubusercontent.com/62319036/210045455-2818f02c-e32d-47a4-9e31-8b869b1c3d42.png">
 
